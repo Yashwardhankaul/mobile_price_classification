@@ -1,7 +1,7 @@
 # mobile_price_classification
 Comparison of five different classification algorithms to figure out the best one.
 
-Note: To take a better look at the visualizations presented in the notebook please take a look in colab by clicking [here](https://colab.research.google.com/github/Yashwardhankaul/mobile_price_classification/blob/master/mobile_price_classification.ipynb) 
+Note: To take a better look at the visualizations presented in the notebook take a look in google colab by clicking [here](https://colab.research.google.com/github/Yashwardhankaul/mobile_price_classification/blob/master/mobile_price_classification.ipynb) 
 
 This code compares the accuracy of five different machine learning clasification algorithms trained on a [kaggle dataset](https://www.kaggle.com/iabhishekofficial/mobile-price-classification#test.csv) containing mobile price data. The code uses [scikit-learn](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html) to train these models on the procured dataset. 
 
